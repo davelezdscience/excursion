@@ -29,5 +29,3 @@ This repository is part of my learning journey with **Git** as a version control
 
 This project is meant for version control practice and does not need to be "run" like a typical software project. However, you can clone the repository using:
 
-```bash
-git clone https://github.com/your_username/your_repository.git
